@@ -1,2 +1,2 @@
 # css_flexbox
-Lindo site de um Hotel feito com HTML5 e CSS FlexBox
+A pretty hotel website developed with HTML5 and CSS FlexBox.
